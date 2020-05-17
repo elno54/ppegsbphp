@@ -1,0 +1,62 @@
+.menu {
+	color: #00008B;
+	font-family: Arial black;
+}
+.lesArticles{
+	background-color: blue;
+}
+
+* {
+	color: black;
+}
+.inscription{
+	background-color: rgb(233, 233, 233);
+	width: 30%;
+	padding: 10px;
+	
+}
+.inscription-text{
+	height: 31px;
+	padding: 3px 7px;
+	line-height: normal;
+	background-color: white;
+	margin-bottom:18px;
+}
+.txt{
+	margin-bottom: 1px;
+}
+body{
+	font-size: 13px;
+  line-height: 19px;
+  color: #111;
+}
+.pseudo{
+	margin-top: 40px;
+}
+#promo{
+  display: flex;
+  flex-direction: row;
+  background-color: seagreen;
+}
+/*#conteneur {
+  display:flex;
+  width:100%;
+  flex-direction:row;
+  flex-wrap:wrap;
+}
+#conteneur > .element {
+  display:block;
+  border-color:cyan;
+  border-width:20px;
+  border-style:solid;
+  background-color:blue;
+  color:white;
+  padding:50px;
+  width:auto;
+  text-align:center;
+  font-size:32px;
+  flex-grow:1;
+  flex-basis:10%;
+  box-sizing:border-box;
+}
+.
